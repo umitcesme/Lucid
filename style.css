@@ -1,0 +1,104 @@
+body{
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.intro{
+    background: #000000;
+    background-image: url(images/photo.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+.slogan{
+    padding-top: 120px;
+}
+.slogan h6{
+    color: #008ed6;
+}
+.slogan h4{
+    color: #ffffff;
+    font-size: 45px;
+}
+.slogan p{
+    color: #ffffff;
+}
+.features{
+    border-bottom: 3px solid #fafafa;
+}
+.lucid-title{
+    padding: 50px 0;
+}
+.lucid-title h5{
+    color: #008ed6;
+    font-size: 15px;
+    text-align: center;
+}
+.lucid-title h6{
+    font-size: 30px;
+    text-align: center;
+}
+.details{
+    padding: 50px 0;
+}
+.details-title{
+    padding: 30px 0;
+}
+.details-title h5{
+    color: #008ed6;
+    font-size: 15px;
+}
+.details-title h6{
+    font-size: 30px;
+}
+.details p{
+    color: #999999;
+}
+.content{
+    background: #f2f2f2;
+}
+.slider{
+    background-image: url(images/cod.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.slider-title{
+    padding: 30px 0;
+}
+.slider-title h5{
+    color: #008ed6;
+    font-size: 13px;
+    text-align: center;
+}
+.slider-title h6{
+    font-size: 32px;
+    color: #ffffff;
+    text-align: center;
+}
+.slider h6{
+    color: #ffffff;
+}
+.slider p{
+    color: #ffffff;
+}
+.download-section{
+    background: #3b3b3b;
+}
+.download-section h3{
+    color: #cccccc;
+}
+.download{
+    display: flex;
+    padding: 40px 0;
+}
+.contact{
+    background: #ededed;
+}
+.maps{
+    background-image: url(images/maps.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+}
